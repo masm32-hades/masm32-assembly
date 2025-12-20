@@ -1,19 +1,3 @@
-; ============================================================
-;  Binary - Gray Code Converter
-;  Author: H4D3S
-;
-;  BUILD INFO
-;  Project created in WinAsm Studio
-;  Target: Win32 console application (EXE, subsystem: console)
-;
-;  LICENSE / USAGE
-;  This source code is released as open source.
-;  You are free to use, copy, modify and distribute this code
-;  for any purpose, including commercial use, without fee.
-;  Attribution is appreciated but not required.
-; ============================================================
-;
-;
 Include Console.Inc
 
 .CODE
